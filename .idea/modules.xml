@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/dubbo.iml" filepath="$PROJECT_DIR$/dubbo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-annotation-consumer/dubbo-annotation-consumer.iml" filepath="$PROJECT_DIR$/dubbo-annotation-consumer/dubbo-annotation-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-annotation-provider/dubbo-annotation-provider.iml" filepath="$PROJECT_DIR$/dubbo-annotation-provider/dubbo-annotation-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-api-consumer/dubbo-api-consumer.iml" filepath="$PROJECT_DIR$/dubbo-api-consumer/dubbo-api-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-api-provider/dubbo-api-provider.iml" filepath="$PROJECT_DIR$/dubbo-api-provider/dubbo-api-provider.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" filepath="$PROJECT_DIR$/dubbo-interface/dubbo-interface.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-xml-consumer/dubbo-xml-consumer.iml" filepath="$PROJECT_DIR$/dubbo-xml-consumer/dubbo-xml-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/dubbo-xml-provider/dubbo-xml-provider.iml" filepath="$PROJECT_DIR$/dubbo-xml-provider/dubbo-xml-provider.iml" />
+    </modules>
+  </component>
+</project>

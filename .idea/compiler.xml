@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="dubbo-xml-provider" />
+        <module name="dubbo-api-provider" />
+        <module name="dubbo" />
+        <module name="dubbo-annotation-consumer" />
+        <module name="dubbo-interface" />
+        <module name="dubbo-xml-consumer" />
+        <module name="dubbo-api-consumer" />
+        <module name="dubbo-annotation-provider" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="dubbo" target="1.5" />
+      <module name="dubbo-annotation-consumer" target="1.5" />
+      <module name="dubbo-annotation-provider" target="1.5" />
+      <module name="dubbo-api-consumer" target="1.5" />
+      <module name="dubbo-api-provider" target="1.5" />
+      <module name="dubbo-interface" target="1.5" />
+      <module name="dubbo-xml-consumer" target="1.8" />
+      <module name="dubbo-xml-provider" target="1.5" />
+    </bytecodeTargetLevel>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="dubbo" options="" />
+      <module name="dubbo-annotation-consumer" options="" />
+      <module name="dubbo-annotation-provider" options="" />
+      <module name="dubbo-api-consumer" options="" />
+      <module name="dubbo-api-provider" options="" />
+      <module name="dubbo-interface" options="" />
+      <module name="dubbo-xml-consumer" options="-parameters" />
+      <module name="dubbo-xml-provider" options="" />
+    </option>
+  </component>
+</project>
