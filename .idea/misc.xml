@@ -11,6 +11,8 @@
         <option value="$PROJECT_DIR$/dubbo-api-consumer/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-annotation-provider/pom.xml" />
         <option value="$PROJECT_DIR$/dubbo-annotation-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-dubbo-consumer/pom.xml" />
+        <option value="$PROJECT_DIR$/boot-dubbo-provider/pom.xml" />
       </list>
     </option>
   </component>
